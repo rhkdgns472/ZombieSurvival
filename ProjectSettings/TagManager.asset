@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Zombie
+  - Tilemap
+  - Bullet
+  - Point
+  - Knife
+  - Knifebox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DeathUI
+  - 
+  - DamageSource
+  - Damageable
+  - Zombie
+  - 
+  - Tileamp
+  - Player
+  - 
+  - ZombieFOV
+  - Point
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1587765395
+    locked: 0
+  - name: Tilemap
+    uniqueID: 4005477539
+    locked: 0
+  - name: Zombie
+    uniqueID: 310912487
+    locked: 0
+  - name: Player
+    uniqueID: 2115306421
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 4190152001
+    locked: 0
+  - name: DeathUI
+    uniqueID: 2008371787
+    locked: 0
